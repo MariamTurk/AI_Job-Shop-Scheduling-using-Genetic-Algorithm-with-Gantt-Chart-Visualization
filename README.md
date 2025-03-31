@@ -58,3 +58,8 @@ Machine 1: 2
 Time: 4
 Machine 2: 3
 Time: 2
+
+## 📚 References
+Goldberg, D. E. (1989). Genetic Algorithms in Search, Optimization, and Machine Learning.
+
+Jain, A. S., & Meeran, S. (1999). Deterministic job-shop scheduling: Past, present and future. European Journal of Operational Research.
